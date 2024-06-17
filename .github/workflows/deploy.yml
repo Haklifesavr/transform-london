@@ -1,0 +1,60 @@
+name: Deploy to GAE
+# Controls when the workflow will run
+on:
+  push:
+    branches: [master,feature,new]
+
+  workflow_dispatch:
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+# This Job runs for developer mode
+jobs:
+  deploy:
+    name: Deploying to Google Cloud
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Setup Node
+      uses: actions/setup-node@v2
+      with:
+        node-version: 18.12.0
+    - name: Listing
+      run: ls
+    - name: Check NPM version
+      run: npm --version
+    - name: Check Node version
+      run: node --version
+    - name: Building frontend
+      run: |
+          npm install --force
+          CI= npm run build --force
+    - name: Run tests
+      run: npm run test
+      continue-on-error: true
+    - name: Deploy Development to App Engine
+      if: github.ref == 'refs/heads/feature'
+      id: deploydev
+      uses: google-github-actions/deploy-appengine@v0.2.0
+      with:
+        deliverables: dev.app.yaml
+        version: v1
+        project_id: ${{ secrets.GCLOUD_PROJECTID }}
+        credentials: ${{ secrets.GCLOUD_APP_DEPLOYER_ACCOUNT }}
+    - name: Deploy Production to App Engine
+      if: github.ref == 'refs/heads/master'
+      id: deployprod
+      uses: google-github-actions/deploy-appengine@v0.2.0
+      with:
+        deliverables: prod.app.yaml
+        version: v1
+        project_id: ${{ secrets.GCLOUD_PROJECTID }}
+        credentials: ${{ secrets.GCLOUD_APP_DEPLOYER_ACCOUNT }}
+    - name: Deploy New to App Engine
+      if: github.ref == 'refs/heads/new'
+      id: deploynew
+      uses: google-github-actions/deploy-appengine@v0.2.0
+      with:
+        deliverables: new.app.yaml
+        version: v1
+        project_id: ${{ secrets.GCLOUD_PROJECTID }}
+        credentials: ${{ secrets.GCLOUD_APP_DEPLOYER_ACCOUNT }}

@@ -1,0 +1,79 @@
+.scorechart_master{
+    display: flex;
+    flex-direction: column;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    border-radius: 15px;
+    height: 138.53px;
+    /* height: 230.53px;
+    height: auto; */
+    /* margin: 20px 0px; */
+}
+
+#scorechart_header{
+    margin-bottom: 40px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+#scorechart_shapes{
+    width: 15px;
+    height: 15px;
+    margin-right: 5px;
+}
+
+#scorechart_3divs_master{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+#scorechart_value_div{
+    position: absolute;
+    bottom: 20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#scorechart_indicator{
+    bottom: 0px;
+    position: absolute;
+}
+
+#scorechart_good_div{
+    height: 10px;
+    align-items: center;
+    color: black;
+    justify-content: center;
+    display: flex;
+    background-color: #38a169;
+}
+
+#scorechart_intermediate_div{
+    height: 10px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ecc94b;
+}
+
+#scorechart_bad_div{
+    height: 10px;
+    display: flex;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    background-color: #e53c3e;
+}
+
+#scorechart_down_icon_div{
+    padding: 2px;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: auto;
+    margin-top: 15px;
+}

@@ -1,0 +1,10 @@
+.circle-chart {
+    width: 180px;
+    height: 180px;
+    background-color: pink;
+    border-radius: 100px;
+  }
+  
+  .circle {
+    transition: stroke-dasharray 0.3s ease;
+  }

@@ -1,0 +1,1565 @@
+{
+    "colorMode": "dark",
+    "isAuthenticated": 1,
+    "userProfile": {
+        "id": 3,
+        "email": "haseeb.shaik@transform.london",
+        "first_name": "Haseeb",
+        "last_name": null,
+        "company": null,
+        "is_admin": true
+    },
+    "dashboardDetails": {
+        "dashboard": {
+            "id": 7,
+            "name": "Moda in Pelle",
+            "owner": 3,
+            "company": 3,
+            "created_at": "2023-03-20T14:53:34.413331Z",
+            "updated_at": "2023-03-20T14:53:34.413357Z"
+        },
+        "sources": [],
+        "company": {
+            "id": 3,
+            "name": "Moda in Pelle",
+            "slug": "moda_in_pelle",
+            "website": null,
+            "logo_link": null
+        }
+    },
+    "companyDetails": "Moda in Pelle",
+    "chartsData": {
+        "id": "moda_in_pelle",
+        "data": {
+            "2021": {
+                "0": {
+                    "name": "Total Engaged Sessions 2021",
+                    "type": "scorecard",
+                    "labels": [
+                        "2021"
+                    ],
+                    "data": [
+                        740560
+                    ]
+                },
+                "1": {
+                    "name": "Total Revenue 2021",
+                    "type": "scorecard",
+                    "labels": [
+                        "2021"
+                    ],
+                    "data": [
+                        0
+                    ]
+                },
+                "2": {
+                    "name": "Active Users 2021",
+                    "type": "scorecard",
+                    "labels": [
+                        "2021"
+                    ],
+                    "data": [
+                        3072597
+                    ]
+                },
+                "3": {
+                    "name": "New Users 2021",
+                    "type": "scorecard",
+                    "labels": [
+                        "2021"
+                    ],
+                    "data": [
+                        2064988
+                    ]
+                },
+                "4": {
+                    "name": "Bounce Rate 2021",
+                    "type": "scorecard",
+                    "labels": [
+                        "2021"
+                    ],
+                    "data": [
+                        0.7892054961422531
+                    ]
+                },
+                "5": {
+                    "name": "User Engagement Duration 2021",
+                    "type": "scorecard",
+                    "labels": [
+                        "2021"
+                    ],
+                    "data": [
+                        "341693 sec"
+                    ]
+                },
+                "20": {
+                    "type": "table",
+                    "name": "Landing Page 2021",
+                    "Landing Page": [
+                        "/returns-information-i128",
+                        "/contact-us-i3",
+                        "/boots-c4/knee-high-boots-c33",
+                        "/basket?utm_source=automated+abandoned+checkout+email&utm_medium=email&utm_campaign=V+-+Automated+Abandoned+Checkout+Email",
+                        "/shoes-c1",
+                        "/basket",
+                        "/sandals-c29",
+                        "/boots-c4/ankle-boots-c45/bezzie-tan-leather-p10073/s57018?utm_source=facebook&utm_medium=social&utm_campaign=ORGANIC_POST",
+                        "/sale-c79/sale-sandals-c83",
+                        "/?utm_medium=banner&utm_source=criteo&utm_campaign=criteo+remarketing",
+                        "/boots-c4/heeled-and-wedge-boots-c8/villan-black-alcantara-p10613",
+                        "/boots-c4/kinala-black-protauras-p8829/s50060?utm_source=facebook&utm_medium=social&utm_campaign=ORGANIC_POST",
+                        "/checkout/mybag",
+                        "/boots-c4/ankle-boots-c45/moda-in-pelle-m1",
+                        "/checkout/success",
+                        "/register",
+                        "/trainers-c168",
+                        "/sale-c79/sale-shoes-c81",
+                        "/boots-c4/ankle-boots-c45/alicee-black-nubuck-p10524/s59392?utm_source=facebook&utm_medium=social&utm_campaign=ORGANIC_POST",
+                        "/basket?cache=false"
+                    ],
+                    "Total Sessions": [
+                        1661,
+                        39,
+                        1383,
+                        1790,
+                        7137,
+                        18587,
+                        1552,
+                        37,
+                        1536,
+                        666,
+                        167,
+                        37,
+                        167,
+                        235,
+                        691,
+                        5314,
+                        6862,
+                        464,
+                        99,
+                        723
+                    ],
+                    "Total Active Users": [
+                        1526,
+                        37,
+                        1259,
+                        1960,
+                        7794,
+                        18401,
+                        2691,
+                        37,
+                        2063,
+                        712,
+                        162,
+                        37,
+                        403,
+                        208,
+                        670,
+                        5692,
+                        7197,
+                        751,
+                        99,
+                        624
+                    ],
+                    "Total Revenue": [
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "21": {
+                    "type": "geochart",
+                    "data": [],
+                    "labels": [],
+                    "name": "Total Revenue by Country"
+                },
+                "22": {
+                    "type": "geochart",
+                    "data": [
+                        478967,
+                        2000,
+                        484,
+                        36080,
+                        803,
+                        9762,
+                        259,
+                        202,
+                        387
+                    ],
+                    "labels": [
+                        "United Kingdom",
+                        "Ireland",
+                        "Jersey",
+                        "United States",
+                        "Netherlands",
+                        "Belgium",
+                        "China",
+                        "Norway",
+                        "Faroe Islands"
+                    ],
+                    "name": "Total Engaged Sessions by Country"
+                }
+            },
+            "last_30_days_(2022)": {
+                "0": {
+                    "labels": [
+                        "2022"
+                    ],
+                    "name": "Total Engaged Sessions",
+                    "type": "scorecard",
+                    "data": [
+                        533248
+                    ]
+                },
+                "1": {
+                    "labels": [
+                        "2022"
+                    ],
+                    "name": "Total Revenue",
+                    "type": "scorecard",
+                    "data": [
+                        1557280.9253
+                    ]
+                },
+                "2": {
+                    "labels": [
+                        "2022"
+                    ],
+                    "name": "Active Users",
+                    "type": "scorecard",
+                    "data": [
+                        618437
+                    ]
+                },
+                "3": {
+                    "labels": [
+                        "2022"
+                    ],
+                    "name": "New Users",
+                    "type": "scorecard",
+                    "data": [
+                        384197
+                    ]
+                },
+                "4": {
+                    "labels": [
+                        "2022"
+                    ],
+                    "name": "Bounce Rate",
+                    "type": "scorecard",
+                    "data": [
+                        0.7712066692563677
+                    ]
+                },
+                "5": {
+                    "labels": [
+                        "2022"
+                    ],
+                    "name": "User Engagement Duration",
+                    "type": "scorecard",
+                    "data": [
+                        "114375 sec"
+                    ]
+                },
+                "20": {
+                    "type": "table",
+                    "name": "Landing Page Last 30 Days(2022)",
+                    "Landing Page": [
+                        "/",
+                        "/sale-c79",
+                        "/basket",
+                        "/boots-c4",
+                        "/boots-c4/ankle-boots-c45",
+                        "/shoes-c1",
+                        "/sale-c79/sale-boots-c80",
+                        "/boots-c4/knee-high-boots-c33",
+                        "/outlet-c211",
+                        "/trainers-c168",
+                        "/register",
+                        "/checkout/success/false",
+                        "/new-in-c58",
+                        "/accessories-c9/scarves-c43/bella-scarf-pink-leopard-textile-p12322/s69707?glCurrency=GBP&glCountry=GB",
+                        "/boots-c4/heeled-and-wedge-boots-c8/sasskia-tan-leather-p10898/s61662?glCurrency=GBP&glCountry=GB",
+                        "/boots-c4/ankle-boots-c45/allura-purple-leather-p12291/s69520?glCurrency=GBP&glCountry=GB",
+                        "/gift-guide-t26165",
+                        "/boots-c4/ankle-boots-c45/katerina-green-patent-mocc-croc-p12442/s70252?glCurrency=GBP&glCountry=GB",
+                        "/secret-sale-c210",
+                        "/boots-c4/ankle-boots-c45/chikkara-white-leather-p8728/s49533?glCurrency=GBP&glCountry=GB"
+                    ],
+                    "Total Sessions": [
+                        91824,
+                        63365,
+                        6816,
+                        12423,
+                        8085,
+                        3809,
+                        4648,
+                        2789,
+                        6078,
+                        2006,
+                        2454,
+                        1429,
+                        4339,
+                        3331,
+                        1732,
+                        1778,
+                        1503,
+                        1573,
+                        2419,
+                        1347
+                    ],
+                    "Total Active Users": [
+                        83955,
+                        53029,
+                        5866,
+                        11403,
+                        7244,
+                        3589,
+                        3702,
+                        2547,
+                        4818,
+                        1722,
+                        2336,
+                        1008,
+                        3816,
+                        2880,
+                        1519,
+                        1439,
+                        1270,
+                        1285,
+                        2126,
+                        1123
+                    ],
+                    "Total Revenue": [
+                        313906.225666,
+                        97307.76926899998,
+                        59061.34887500001,
+                        34060.90799300001,
+                        24156.993022000002,
+                        11100.035131999999,
+                        10145.822016,
+                        8079.584602000001,
+                        7781.083659000002,
+                        6098.239753,
+                        5021.689839999999,
+                        4917.4610059999995,
+                        4551.553447,
+                        3809.6974899999996,
+                        3636.90921,
+                        3177.5619030000003,
+                        2981.816767,
+                        2658.1509220000003,
+                        2477.008296,
+                        2282.6546399999997
+                    ]
+                }
+            },
+            "last_30_days_(2023)": {
+                "0": {
+                    "labels": [
+                        "2023"
+                    ],
+                    "name": "Total Engaged Sessions",
+                    "type": "scorecard",
+                    "data": [
+                        409694
+                    ]
+                },
+                "1": {
+                    "labels": [
+                        "2023"
+                    ],
+                    "name": "Total Revenue",
+                    "type": "scorecard",
+                    "data": [
+                        878819.2877460001
+                    ]
+                },
+                "2": {
+                    "labels": [
+                        "2023"
+                    ],
+                    "name": "Active Users",
+                    "type": "scorecard",
+                    "data": [
+                        509272
+                    ]
+                },
+                "3": {
+                    "labels": [
+                        "2023"
+                    ],
+                    "name": "New Users",
+                    "type": "scorecard",
+                    "data": [
+                        315068
+                    ]
+                },
+                "4": {
+                    "labels": [
+                        "2023"
+                    ],
+                    "name": "Bounce Rate",
+                    "type": "scorecard",
+                    "data": [
+                        0.8990733460974185
+                    ]
+                },
+                "5": {
+                    "labels": [
+                        "2023"
+                    ],
+                    "name": "User Engagement Duration",
+                    "type": "scorecard",
+                    "data": [
+                        "46812 sec"
+                    ]
+                },
+                "20": {
+                    "type": "table",
+                    "name": "Landing Page Last 30 Days(2023)",
+                    "Landing Page": [
+                        "/",
+                        "/basket",
+                        "/trainers-c168",
+                        "/sale-c79",
+                        "/sandals-c29",
+                        "/seasonal-offer-t26400",
+                        "/new-in-c58",
+                        "/shoes-c1",
+                        "/shoes-c1/casual-shoes-and-trainers-c2",
+                        "(not set)",
+                        "",
+                        "/checkout/delivery",
+                        "/boots-c4",
+                        "/checkout/payment",
+                        "/checkout/details",
+                        "/checkout/success/false",
+                        "/register",
+                        "/sandals-c29/wedge-sandals-c30",
+                        "/new-in-c58/new-trainers-c178",
+                        "/sale-c79/sale-trainers-c180"
+                    ],
+                    "Total Sessions": [
+                        70808,
+                        4227,
+                        6471,
+                        15137,
+                        7591,
+                        10238,
+                        9233,
+                        5920,
+                        3230,
+                        16975,
+                        13548,
+                        238,
+                        1577,
+                        259,
+                        265,
+                        432,
+                        2300,
+                        1675,
+                        1284,
+                        1975
+                    ],
+                    "Total Active Users": [
+                        62651,
+                        3286,
+                        5760,
+                        12122,
+                        6791,
+                        7668,
+                        7360,
+                        5350,
+                        3055,
+                        13283,
+                        12282,
+                        231,
+                        1399,
+                        248,
+                        249,
+                        325,
+                        2024,
+                        1506,
+                        1129,
+                        1657
+                    ],
+                    "Total Revenue": [
+                        155586.36957199997,
+                        32009.51785699999,
+                        17021.431558,
+                        14905.01108,
+                        11230.327380000002,
+                        10955.615027,
+                        9213.80235,
+                        9095.554999,
+                        8270.68449,
+                        7868.920256000001,
+                        6588.024785999999,
+                        3897.1335579999995,
+                        3820.472549,
+                        3801.652021,
+                        3644.95,
+                        3641.436492,
+                        2893.7096010000005,
+                        2445,
+                        2379.548754,
+                        2196.185997
+                    ]
+                }
+            }
+        }
+    },
+    "transformedData": {
+        "chartList": {
+            "2022": [
+                {
+                    "type": "SCORECARD",
+                    "data": "5,540,824",
+                    "title": "Total Engaged Sessions 2022"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "£7,774,038",
+                    "title": "Total Revenue 2022"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "7,548,617",
+                    "title": "Active Users 2022"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "4,659,796",
+                    "title": "New Users 2022"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "0.799",
+                    "title": "Bounce Rate 2022"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "1006319 sec",
+                    "title": "User Engagement Duration 2022"
+                },
+                {
+                    "type": "TABLE",
+                    "columns": [
+                        {
+                            "Header": "Landing Page",
+                            "accessor": "Landing Page"
+                        },
+                        {
+                            "Header": "Total Sessions",
+                            "accessor": "Total Sessions"
+                        },
+                        {
+                            "Header": "Total Active Users",
+                            "accessor": "Total Active Users"
+                        },
+                        {
+                            "Header": "Total Revenue",
+                            "accessor": "Total Revenue"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "Landing Page": "/",
+                            "Total Sessions": 1088008,
+                            "Total Active Users": 1015490,
+                            "Total Revenue": 1505084.4612589995
+                        },
+                        {
+                            "Landing Page": "/basket",
+                            "Total Sessions": 62610,
+                            "Total Active Users": 54665,
+                            "Total Revenue": 329534.71822300006
+                        },
+                        {
+                            "Landing Page": "/sale-c79",
+                            "Total Sessions": 261568,
+                            "Total Active Users": 225180,
+                            "Total Revenue": 309361.45087700005
+                        },
+                        {
+                            "Landing Page": "(not set)",
+                            "Total Sessions": 404838,
+                            "Total Active Users": 342065,
+                            "Total Revenue": 148928.92729399964
+                        },
+                        {
+                            "Landing Page": "/boots-c4",
+                            "Total Sessions": 55694,
+                            "Total Active Users": 50837,
+                            "Total Revenue": 117220.14817399997
+                        },
+                        {
+                            "Landing Page": "/boots-c4/ankle-boots-c45",
+                            "Total Sessions": 43108,
+                            "Total Active Users": 39091,
+                            "Total Revenue": 94922.81287600001
+                        },
+                        {
+                            "Landing Page": "/trainers-c168",
+                            "Total Sessions": 36264,
+                            "Total Active Users": 32489,
+                            "Total Revenue": 53574.75897800002
+                        },
+                        {
+                            "Landing Page": "/sandals-c29",
+                            "Total Sessions": 78669,
+                            "Total Active Users": 73583,
+                            "Total Revenue": 53036.47481000001
+                        },
+                        {
+                            "Landing Page": "/shoes-c1",
+                            "Total Sessions": 47489,
+                            "Total Active Users": 45016,
+                            "Total Revenue": 50280.68733799999
+                        },
+                        {
+                            "Landing Page": "/new-in-c58",
+                            "Total Sessions": 85562,
+                            "Total Active Users": 77501,
+                            "Total Revenue": 45420.393486999965
+                        },
+                        {
+                            "Landing Page": "/register",
+                            "Total Sessions": 20416,
+                            "Total Active Users": 19442,
+                            "Total Revenue": 38984.945576
+                        },
+                        {
+                            "Landing Page": "/black-friday-c183",
+                            "Total Sessions": 22296,
+                            "Total Active Users": 18433,
+                            "Total Revenue": 36779.856091
+                        },
+                        {
+                            "Landing Page": "/shoes-c1/casual-shoes-and-trainers-c2",
+                            "Total Sessions": 26673,
+                            "Total Active Users": 25467,
+                            "Total Revenue": 25711.21651300001
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-boots-c80",
+                            "Total Sessions": 24853,
+                            "Total Active Users": 21312,
+                            "Total Revenue": 25118.866951
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-trainers-c180",
+                            "Total Sessions": 27749,
+                            "Total Active Users": 24227,
+                            "Total Revenue": 23436.281035
+                        },
+                        {
+                            "Landing Page": "/boots-c4/knee-high-boots-c33",
+                            "Total Sessions": 10069,
+                            "Total Active Users": 9200,
+                            "Total Revenue": 23360.411887000002
+                        },
+                        {
+                            "Landing Page": "/checkout/success/false",
+                            "Total Sessions": 12508,
+                            "Total Active Users": 10363,
+                            "Total Revenue": 21546.248265000002
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-sandals-c83",
+                            "Total Sessions": 24372,
+                            "Total Active Users": 21182,
+                            "Total Revenue": 15872.504868999999
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-shoes-c81",
+                            "Total Sessions": 26433,
+                            "Total Active Users": 24402,
+                            "Total Revenue": 12797.637306000002
+                        },
+                        {
+                            "Landing Page": "/shoes-c1/flat-and-ballerina-shoes-c46",
+                            "Total Sessions": 20726,
+                            "Total Active Users": 19562,
+                            "Total Revenue": 12691.605090000008
+                        }
+                    ],
+                    "title": "Landing Page 2022"
+                },
+                {
+                    "type": "GEOCHART",
+                    "title": "Total Revenue by Country",
+                    "data": [
+                        [
+                            "Country",
+                            "Total Revenue by Country"
+                        ],
+                        [
+                            "United States",
+                            570.8982570000001
+                        ],
+                        [
+                            "United Kingdom",
+                            5072775.59397402
+                        ],
+                        [
+                            "Ireland",
+                            2553.5181620000003
+                        ],
+                        [
+                            "Netherlands",
+                            373.7
+                        ],
+                        [
+                            "Spain",
+                            730.3457440000001
+                        ],
+                        [
+                            "Jersey",
+                            3169.478587
+                        ]
+                    ],
+                    "options": {
+                        "geochartVersion": 11,
+                        "colorAxis": {
+                            "colors": [
+                                "#422afb",
+                                "#6956fc",
+                                "#5a48e7",
+                                "#8576f7",
+                                "#3421ca",
+                                "#4e41af"
+                            ]
+                        },
+                        "magnifyingGlass": {
+                            "enable": true,
+                            "zoomFactor": 7.5
+                        },
+                        "backgroundColor": {
+                            "fill": "transparent"
+                        },
+                        "legend": "none",
+                        "datalessRegionColor": "#cccccc"
+                    }
+                },
+                {
+                    "type": "GEOCHART",
+                    "title": "Total Engaged Sessions by Country",
+                    "data": [
+                        [
+                            "Country",
+                            "Total Engaged Sessions by Country"
+                        ],
+                        [
+                            "United States",
+                            227489
+                        ],
+                        [
+                            "United Kingdom",
+                            3243383
+                        ],
+                        [
+                            "Ireland",
+                            13568
+                        ],
+                        [
+                            "Netherlands",
+                            1601
+                        ],
+                        [
+                            "India",
+                            771
+                        ],
+                        [
+                            "Andorra",
+                            42058
+                        ],
+                        [
+                            "Belgium",
+                            362
+                        ],
+                        [
+                            "Spain",
+                            542
+                        ],
+                        [
+                            "Jersey",
+                            1702
+                        ],
+                        [
+                            "Sweden",
+                            280
+                        ]
+                    ],
+                    "options": {
+                        "geochartVersion": 11,
+                        "colorAxis": {
+                            "colors": [
+                                "#422afb",
+                                "#6956fc",
+                                "#5a48e7",
+                                "#8576f7",
+                                "#3421ca",
+                                "#4e41af",
+                                "#877dd2",
+                                "#231968",
+                                "#2000ff",
+                                "#3a3275"
+                            ]
+                        },
+                        "magnifyingGlass": {
+                            "enable": true,
+                            "zoomFactor": 7.5
+                        },
+                        "backgroundColor": {
+                            "fill": "transparent"
+                        },
+                        "legend": "none",
+                        "datalessRegionColor": "#cccccc"
+                    }
+                }
+            ],
+            "2023": [
+                {
+                    "type": "SCORECARD",
+                    "data": "1,682,264",
+                    "title": "Total Engaged Sessions 2023"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "£4,232,644",
+                    "title": "Total Revenue 2023"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "2,264,354",
+                    "title": "Active Users 2023"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "1,406,396",
+                    "title": "New Users 2023"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "0.858",
+                    "title": "Bounce Rate 2023"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "253793 sec",
+                    "title": "User Engagement Duration 2023"
+                },
+                {
+                    "type": "TABLE",
+                    "columns": [
+                        {
+                            "Header": "Landing Page",
+                            "accessor": "Landing Page"
+                        },
+                        {
+                            "Header": "Total Sessions",
+                            "accessor": "Total Sessions"
+                        },
+                        {
+                            "Header": "Total Active Users",
+                            "accessor": "Total Active Users"
+                        },
+                        {
+                            "Header": "Total Revenue",
+                            "accessor": "Total Revenue"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "Landing Page": "/",
+                            "Total Sessions": 299992,
+                            "Total Active Users": 268613,
+                            "Total Revenue": 697927.7620149999
+                        },
+                        {
+                            "Landing Page": "/basket",
+                            "Total Sessions": 25777,
+                            "Total Active Users": 22399,
+                            "Total Revenue": 217514.01369800014
+                        },
+                        {
+                            "Landing Page": "/sale-c79",
+                            "Total Sessions": 134829,
+                            "Total Active Users": 112053,
+                            "Total Revenue": 151795.59519700002
+                        },
+                        {
+                            "Landing Page": "",
+                            "Total Sessions": 181191,
+                            "Total Active Users": 163552,
+                            "Total Revenue": 93205.033879
+                        },
+                        {
+                            "Landing Page": "/checkout/delivery",
+                            "Total Sessions": 3173,
+                            "Total Active Users": 3094,
+                            "Total Revenue": 62379.182242
+                        },
+                        {
+                            "Landing Page": "/checkout/payment",
+                            "Total Sessions": 3079,
+                            "Total Active Users": 2963,
+                            "Total Revenue": 61394.748805999996
+                        },
+                        {
+                            "Landing Page": "/checkout/success/false",
+                            "Total Sessions": 4494,
+                            "Total Active Users": 3677,
+                            "Total Revenue": 47896.233690999994
+                        },
+                        {
+                            "Landing Page": "/checkout/details",
+                            "Total Sessions": 3087,
+                            "Total Active Users": 3006,
+                            "Total Revenue": 46118.175706
+                        },
+                        {
+                            "Landing Page": "/trainers-c168",
+                            "Total Sessions": 24941,
+                            "Total Active Users": 21614,
+                            "Total Revenue": 42300.558509
+                        },
+                        {
+                            "Landing Page": "/boots-c4",
+                            "Total Sessions": 24105,
+                            "Total Active Users": 21397,
+                            "Total Revenue": 41741.21166200001
+                        },
+                        {
+                            "Landing Page": "/shoes-c1",
+                            "Total Sessions": 31291,
+                            "Total Active Users": 27622,
+                            "Total Revenue": 32225.668981
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-trainers-c180",
+                            "Total Sessions": 22937,
+                            "Total Active Users": 19569,
+                            "Total Revenue": 25832.137996
+                        },
+                        {
+                            "Landing Page": "/boots-c4/ankle-boots-c45",
+                            "Total Sessions": 14211,
+                            "Total Active Users": 12545,
+                            "Total Revenue": 24407.154392999997
+                        },
+                        {
+                            "Landing Page": "/new-in-c58",
+                            "Total Sessions": 30687,
+                            "Total Active Users": 25722,
+                            "Total Revenue": 23994.852864999997
+                        },
+                        {
+                            "Landing Page": "/sandals-c29",
+                            "Total Sessions": 22945,
+                            "Total Active Users": 20473,
+                            "Total Revenue": 18124.763929000004
+                        },
+                        {
+                            "Landing Page": "/shoes-c1/casual-shoes-and-trainers-c2",
+                            "Total Sessions": 7350,
+                            "Total Active Users": 6831,
+                            "Total Revenue": 15712.08105
+                        },
+                        {
+                            "Landing Page": "/register",
+                            "Total Sessions": 8696,
+                            "Total Active Users": 8112,
+                            "Total Revenue": 15710.994530999997
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-boots-c80",
+                            "Total Sessions": 10700,
+                            "Total Active Users": 8588,
+                            "Total Revenue": 13611.526178000002
+                        },
+                        {
+                            "Landing Page": "/seasonal-offer-t26400",
+                            "Total Sessions": 10238,
+                            "Total Active Users": 7668,
+                            "Total Revenue": 10955.615027
+                        },
+                        {
+                            "Landing Page": "(not set)",
+                            "Total Sessions": 67799,
+                            "Total Active Users": 51182,
+                            "Total Revenue": 9352.320255999999
+                        }
+                    ],
+                    "title": "Landing Page 2023"
+                },
+                {
+                    "type": "GEOCHART",
+                    "title": "Total Revenue by Country",
+                    "data": [
+                        [
+                            "Country",
+                            "Total Revenue by Country"
+                        ],
+                        [
+                            "United States",
+                            541.965801
+                        ],
+                        [
+                            "United Kingdom",
+                            3213709.928045017
+                        ],
+                        [
+                            "Spain",
+                            2350.259739
+                        ],
+                        [
+                            "Ireland",
+                            7032.936435999997
+                        ],
+                        [
+                            "Jersey",
+                            13090.534676
+                        ],
+                        [
+                            "France",
+                            344.164088
+                        ],
+                        [
+                            "Italy",
+                            364.20000000000005
+                        ],
+                        [
+                            "Portugal",
+                            398.48232200000007
+                        ],
+                        [
+                            "Isle of Man",
+                            613.9008150000001
+                        ],
+                        [
+                            "South Africa",
+                            163
+                        ],
+                        [
+                            "Australia",
+                            644.587765
+                        ],
+                        [
+                            "Canada",
+                            114.159987
+                        ],
+                        [
+                            "Cyprus",
+                            115.116
+                        ],
+                        [
+                            "Netherlands",
+                            347.01599999999996
+                        ],
+                        [
+                            "Austria",
+                            339.8
+                        ],
+                        [
+                            "Türkiye",
+                            274.000465
+                        ],
+                        [
+                            "United Arab Emirates",
+                            137.062708
+                        ],
+                        [
+                            "Thailand",
+                            167.656232
+                        ],
+                        [
+                            "Sweden",
+                            191.95
+                        ],
+                        [
+                            "Slovenia",
+                            397.233
+                        ],
+                        [
+                            "Ghana",
+                            173.25
+                        ],
+                        [
+                            "New Zealand",
+                            146.45
+                        ],
+                        [
+                            "Guernsey",
+                            306.868574
+                        ],
+                        [
+                            "Puerto Rico",
+                            119.459022
+                        ]
+                    ],
+                    "options": {
+                        "geochartVersion": 11,
+                        "colorAxis": {
+                            "colors": [
+                                "#422afb",
+                                "#6956fc",
+                                "#5a48e7",
+                                "#8576f7",
+                                "#3421ca",
+                                "#4e41af",
+                                "#877dd2",
+                                "#231968",
+                                "#2000ff",
+                                "#3a3275",
+                                "#978de6",
+                                "#645CBB",
+                                "#A084DC",
+                                "#BFACE2",
+                                "#EBC7E6",
+                                "#674188",
+                                "#5B8FB9",
+                                "#03001C",
+                                "#453C67",
+                                "#6D67E4",
+                                "#46C2CB",
+                                "#F2F7A1",
+                                "#00005C",
+                                "#F49D1A"
+                            ]
+                        },
+                        "magnifyingGlass": {
+                            "enable": true,
+                            "zoomFactor": 7.5
+                        },
+                        "backgroundColor": {
+                            "fill": "transparent"
+                        },
+                        "legend": "none",
+                        "datalessRegionColor": "#cccccc"
+                    }
+                },
+                {
+                    "type": "GEOCHART",
+                    "title": "Total Engaged Sessions by Country",
+                    "data": [
+                        [
+                            "Country",
+                            "Total Engaged Sessions by Country"
+                        ],
+                        [
+                            "United States",
+                            1441
+                        ],
+                        [
+                            "United Kingdom",
+                            1231061
+                        ],
+                        [
+                            "Spain",
+                            1991
+                        ],
+                        [
+                            "Ireland",
+                            5120
+                        ],
+                        [
+                            "Jersey",
+                            4928
+                        ],
+                        [
+                            "India",
+                            1342
+                        ],
+                        [
+                            "Germany",
+                            231
+                        ],
+                        [
+                            "Hong Kong",
+                            253
+                        ],
+                        [
+                            "France",
+                            435
+                        ],
+                        [
+                            "Romania",
+                            555
+                        ]
+                    ],
+                    "options": {
+                        "geochartVersion": 11,
+                        "colorAxis": {
+                            "colors": [
+                                "#422afb",
+                                "#6956fc",
+                                "#5a48e7",
+                                "#8576f7",
+                                "#3421ca",
+                                "#4e41af",
+                                "#877dd2",
+                                "#231968",
+                                "#2000ff",
+                                "#3a3275"
+                            ]
+                        },
+                        "magnifyingGlass": {
+                            "enable": true,
+                            "zoomFactor": 7.5
+                        },
+                        "backgroundColor": {
+                            "fill": "transparent"
+                        },
+                        "legend": "none",
+                        "datalessRegionColor": "#cccccc"
+                    }
+                }
+            ],
+            "last_30_days_(2023)": [
+                {
+                    "type": "SCORECARD",
+                    "data": "409,694",
+                    "title": "Total Engaged Sessions"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "£878,819",
+                    "title": "Total Revenue"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "509,272",
+                    "title": "Active Users"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "315,068",
+                    "title": "New Users"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "0.899",
+                    "title": "Bounce Rate"
+                },
+                {
+                    "type": "SCORECARD",
+                    "data": "46812 sec",
+                    "title": "User Engagement Duration"
+                },
+                {
+                    "type": "TABLE",
+                    "columns": [
+                        {
+                            "Header": "Landing Page",
+                            "accessor": "Landing Page"
+                        },
+                        {
+                            "Header": "Total Sessions",
+                            "accessor": "Total Sessions"
+                        },
+                        {
+                            "Header": "Total Active Users",
+                            "accessor": "Total Active Users"
+                        },
+                        {
+                            "Header": "Total Revenue",
+                            "accessor": "Total Revenue"
+                        }
+                    ],
+                    "rows": [
+                        {
+                            "Landing Page": "/",
+                            "Total Sessions": 70808,
+                            "Total Active Users": 62651,
+                            "Total Revenue": 155586.36957199997
+                        },
+                        {
+                            "Landing Page": "/basket",
+                            "Total Sessions": 4227,
+                            "Total Active Users": 3286,
+                            "Total Revenue": 32009.51785699999
+                        },
+                        {
+                            "Landing Page": "/trainers-c168",
+                            "Total Sessions": 6471,
+                            "Total Active Users": 5760,
+                            "Total Revenue": 17021.431558
+                        },
+                        {
+                            "Landing Page": "/sale-c79",
+                            "Total Sessions": 15137,
+                            "Total Active Users": 12122,
+                            "Total Revenue": 14905.01108
+                        },
+                        {
+                            "Landing Page": "/sandals-c29",
+                            "Total Sessions": 7591,
+                            "Total Active Users": 6791,
+                            "Total Revenue": 11230.327380000002
+                        },
+                        {
+                            "Landing Page": "/seasonal-offer-t26400",
+                            "Total Sessions": 10238,
+                            "Total Active Users": 7668,
+                            "Total Revenue": 10955.615027
+                        },
+                        {
+                            "Landing Page": "/new-in-c58",
+                            "Total Sessions": 9233,
+                            "Total Active Users": 7360,
+                            "Total Revenue": 9213.80235
+                        },
+                        {
+                            "Landing Page": "/shoes-c1",
+                            "Total Sessions": 5920,
+                            "Total Active Users": 5350,
+                            "Total Revenue": 9095.554999
+                        },
+                        {
+                            "Landing Page": "/shoes-c1/casual-shoes-and-trainers-c2",
+                            "Total Sessions": 3230,
+                            "Total Active Users": 3055,
+                            "Total Revenue": 8270.68449
+                        },
+                        {
+                            "Landing Page": "(not set)",
+                            "Total Sessions": 16975,
+                            "Total Active Users": 13283,
+                            "Total Revenue": 7868.920256000001
+                        },
+                        {
+                            "Landing Page": "",
+                            "Total Sessions": 13548,
+                            "Total Active Users": 12282,
+                            "Total Revenue": 6588.024785999999
+                        },
+                        {
+                            "Landing Page": "/checkout/delivery",
+                            "Total Sessions": 238,
+                            "Total Active Users": 231,
+                            "Total Revenue": 3897.1335579999995
+                        },
+                        {
+                            "Landing Page": "/boots-c4",
+                            "Total Sessions": 1577,
+                            "Total Active Users": 1399,
+                            "Total Revenue": 3820.472549
+                        },
+                        {
+                            "Landing Page": "/checkout/payment",
+                            "Total Sessions": 259,
+                            "Total Active Users": 248,
+                            "Total Revenue": 3801.652021
+                        },
+                        {
+                            "Landing Page": "/checkout/details",
+                            "Total Sessions": 265,
+                            "Total Active Users": 249,
+                            "Total Revenue": 3644.95
+                        },
+                        {
+                            "Landing Page": "/checkout/success/false",
+                            "Total Sessions": 432,
+                            "Total Active Users": 325,
+                            "Total Revenue": 3641.436492
+                        },
+                        {
+                            "Landing Page": "/register",
+                            "Total Sessions": 2300,
+                            "Total Active Users": 2024,
+                            "Total Revenue": 2893.7096010000005
+                        },
+                        {
+                            "Landing Page": "/sandals-c29/wedge-sandals-c30",
+                            "Total Sessions": 1675,
+                            "Total Active Users": 1506,
+                            "Total Revenue": 2445
+                        },
+                        {
+                            "Landing Page": "/new-in-c58/new-trainers-c178",
+                            "Total Sessions": 1284,
+                            "Total Active Users": 1129,
+                            "Total Revenue": 2379.548754
+                        },
+                        {
+                            "Landing Page": "/sale-c79/sale-trainers-c180",
+                            "Total Sessions": 1975,
+                            "Total Active Users": 1657,
+                            "Total Revenue": 2196.185997
+                        }
+                    ],
+                    "title": "Landing Page Last 30 Days(2023)"
+                }
+            ]
+        }
+    },
+    "displayTest": false,
+    "userDashboards": [
+        {
+            "id": 7,
+            "name": "Moda in Pelle",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Moda in Pelle",
+            "created_at": "2023-03-20T14:53:34.413331Z",
+            "updated_at": "2023-03-20T14:53:34.413357Z",
+            "pages": [
+                {
+                    "id": 9,
+                    "name": "Performance",
+                    "dashboard": 7,
+                    "created_at": "2023-03-20T14:53:45.793641Z",
+                    "updated_at": "2023-03-20T14:53:45.793667Z"
+                },
+                {
+                    "id": 10,
+                    "name": "Technical",
+                    "dashboard": 7,
+                    "created_at": "2023-03-20T14:53:55.240669Z",
+                    "updated_at": "2023-03-20T14:53:55.240694Z"
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Loads of Stone",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Loads of Stone",
+            "created_at": "2023-03-20T14:54:41.054382Z",
+            "updated_at": "2023-03-20T14:54:41.054407Z",
+            "pages": [
+                {
+                    "id": 11,
+                    "name": "Performance",
+                    "dashboard": 8,
+                    "created_at": "2023-03-20T14:54:51.385255Z",
+                    "updated_at": "2023-03-20T14:54:51.385281Z"
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Wave Spas",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Wave Spas",
+            "created_at": "2023-03-20T14:55:14.054628Z",
+            "updated_at": "2023-03-20T14:55:14.054662Z",
+            "pages": [
+                {
+                    "id": 12,
+                    "name": "Performance",
+                    "dashboard": 9,
+                    "created_at": "2023-03-20T14:55:28.067602Z",
+                    "updated_at": "2023-03-20T14:55:28.067627Z"
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "name": "Stuarts London",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Stuarts London",
+            "created_at": "2023-03-20T14:55:59.237972Z",
+            "updated_at": "2023-03-20T14:55:59.237996Z",
+            "pages": [
+                {
+                    "id": 13,
+                    "name": "Technical",
+                    "dashboard": 10,
+                    "created_at": "2023-03-20T14:56:12.992306Z",
+                    "updated_at": "2023-03-20T14:56:12.992333Z"
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Cult Fruniture",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Cult Fruniture",
+            "created_at": "2023-03-20T14:56:32.952711Z",
+            "updated_at": "2023-03-20T14:56:32.952737Z",
+            "pages": [
+                {
+                    "id": 14,
+                    "name": "Technical",
+                    "dashboard": 11,
+                    "created_at": "2023-03-20T14:57:02.676275Z",
+                    "updated_at": "2023-03-20T14:57:02.676301Z"
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Canon Analytics",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Canon Analytics",
+            "created_at": "2023-03-20T14:56:48.380574Z",
+            "updated_at": "2023-03-20T14:56:48.380601Z",
+            "pages": [
+                {
+                    "id": 15,
+                    "name": "Performance",
+                    "dashboard": 12,
+                    "created_at": "2023-03-20T14:57:11.803461Z",
+                    "updated_at": "2023-03-20T14:57:11.803485Z"
+                },
+                {
+                    "id": 16,
+                    "name": "Opportunity",
+                    "dashboard": 12,
+                    "created_at": "2023-03-20T14:57:25.570776Z",
+                    "updated_at": "2023-03-20T14:57:25.570801Z"
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Demo CLTV",
+            "owner": "haseeb.shaik@transform.london",
+            "company": "Demo CLTV",
+            "created_at": "2023-05-05T11:09:24.454772Z",
+            "updated_at": "2023-05-05T11:09:24.454793Z",
+            "pages": [
+                {
+                    "id": 17,
+                    "name": "CLTV",
+                    "dashboard": 13,
+                    "created_at": "2023-05-05T11:09:37.989013Z",
+                    "updated_at": "2023-05-05T11:09:37.989131Z"
+                }
+            ]
+        }
+    ],
+    "selectedDashboard": {
+        "id": 9,
+        "name": "Performance",
+        "dashboard": 7,
+        "created_at": "2023-03-20T14:53:45.793641Z",
+        "updated_at": "2023-03-20T14:53:45.793667Z"
+    },
+    "selectedYear": "2023",
+    "tempState": null,
+    "compareView": null,
+    "compareData": null,
+    "tableState": null,
+    "newOption": null
+}

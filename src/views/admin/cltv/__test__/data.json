@@ -1,0 +1,301 @@
+{
+    "chartList": {
+        "2019": [
+            {
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "Header": "Total Amount",
+                        "accessor": "Total Amount"
+                    },
+                    {
+                        "Header": "Product Id",
+                        "accessor": "Product Id"
+                    }
+                ],
+                "rows": [
+                    {
+                        "Total Amount": 64772350.39,
+                        "Product Id": 1005115
+                    },
+                    {
+                        "Total Amount": 41823595.84,
+                        "Product Id": 1005105
+                    },
+                    {
+                        "Total Amount": 27253021.5,
+                        "Product Id": 1004249
+                    },
+                    {
+                        "Total Amount": 24754649.48,
+                        "Product Id": 1005135
+                    },
+                    {
+                        "Total Amount": 21242498.37,
+                        "Product Id": 1004767
+                    },
+                    {
+                        "Total Amount": 20364155.13,
+                        "Product Id": 1002544
+                    },
+                    {
+                        "Total Amount": 15471250.45,
+                        "Product Id": 1004856
+                    },
+                    {
+                        "Total Amount": 14129695.2,
+                        "Product Id": 1005116
+                    },
+                    {
+                        "Total Amount": 13702286.93,
+                        "Product Id": 1002524
+                    },
+                    {
+                        "Total Amount": 11864653.92,
+                        "Product Id": 1004870
+                    }
+                ],
+                "title": "Highest Grossing Product"
+            },
+            {
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "Header": "Revenue Per View",
+                        "accessor": "Revenue Per View"
+                    },
+                    {
+                        "Header": "Product Id",
+                        "accessor": "Product Id"
+                    }
+                ],
+                "rows": [
+                    {
+                        "Revenue Per View": 924,
+                        "Product Id": 2800120
+                    },
+                    {
+                        "Revenue Per View": 373,
+                        "Product Id": 100023542
+                    },
+                    {
+                        "Revenue Per View": 309,
+                        "Product Id": 20500270
+                    },
+                    {
+                        "Revenue Per View": 289,
+                        "Product Id": 4200751
+                    },
+                    {
+                        "Revenue Per View": 271,
+                        "Product Id": 21405915
+                    },
+                    {
+                        "Revenue Per View": 271,
+                        "Product Id": 26205483
+                    },
+                    {
+                        "Revenue Per View": 150,
+                        "Product Id": 13103009
+                    },
+                    {
+                        "Revenue Per View": 140,
+                        "Product Id": 12706130
+                    },
+                    {
+                        "Revenue Per View": 118,
+                        "Product Id": 17303182
+                    },
+                    {
+                        "Revenue Per View": 111,
+                        "Product Id": 13400697
+                    }
+                ],
+                "title": "Highest Earnings Per Session"
+            },
+            {
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "Header": "Cvr",
+                        "accessor": "Cvr"
+                    },
+                    {
+                        "Header": "Product Id",
+                        "accessor": "Product Id"
+                    }
+                ],
+                "rows": [
+                    {
+                        "Cvr": 1,
+                        "Product Id": 17303182
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 26006184
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 100020128
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 26405067
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 28717764
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 26001727
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 24600459
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 12705719
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 26600580
+                    },
+                    {
+                        "Cvr": 1,
+                        "Product Id": 100023542
+                    }
+                ],
+                "title": "Conversion Rates Per Product"
+            },
+            {
+                "type": "SCORECARD",
+                "data": "685",
+                "title": "Average Order Value"
+            },
+            {
+                "type": "SCORECARD",
+                "data": "2",
+                "title": "Number Of Purchases Per Customer"
+            },
+            {
+                "type": "SCORECARD",
+                "data": "£1,378",
+                "title": "Customer Lifetime Value"
+            },
+            {
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "Header": "Products Bought",
+                        "accessor": "Products Bought"
+                    },
+                    {
+                        "Header": "Num Of Sales",
+                        "accessor": "Num Of Sales"
+                    }
+                ],
+                "rows": [
+                    {
+                        "Products Bought": "{1004856}",
+                        "Num Of Sales": 37688
+                    },
+                    {
+                        "Products Bought": "{1004767}",
+                        "Num Of Sales": 25332
+                    },
+                    {
+                        "Products Bought": "{1005115}",
+                        "Num Of Sales": 20214
+                    },
+                    {
+                        "Products Bought": "{4804056}",
+                        "Num Of Sales": 17452
+                    },
+                    {
+                        "Products Bought": "{1004833}",
+                        "Num Of Sales": 13240
+                    },
+                    {
+                        "Products Bought": "{1002544}",
+                        "Num Of Sales": 12038
+                    },
+                    {
+                        "Products Bought": "{1004870}",
+                        "Num Of Sales": 11357
+                    },
+                    {
+                        "Products Bought": "{1004249}",
+                        "Num Of Sales": 9227
+                    },
+                    {
+                        "Products Bought": "{1005105}",
+                        "Num Of Sales": 8837
+                    },
+                    {
+                        "Products Bought": "{5100816}",
+                        "Num Of Sales": 8232
+                    }
+                ],
+                "title": "Products That Sell Well Together"
+            },
+            {
+                "type": "TABLE",
+                "columns": [
+                    {
+                        "Header": "Product Bundle",
+                        "accessor": "Product Bundle"
+                    },
+                    {
+                        "Header": "Num Of Sales",
+                        "accessor": "Num Of Sales"
+                    }
+                ],
+                "rows": [
+                    {
+                        "Product Bundle": "{1004856, 1004833}",
+                        "Num Of Sales": 2675
+                    },
+                    {
+                        "Product Bundle": "{4804056, 4804055}",
+                        "Num Of Sales": 2301
+                    },
+                    {
+                        "Product Bundle": "{1004856, 1004767}",
+                        "Num Of Sales": 2279
+                    },
+                    {
+                        "Product Bundle": "{1004870, 1004767}",
+                        "Num Of Sales": 1972
+                    },
+                    {
+                        "Product Bundle": "{1004856, 1005100}",
+                        "Num Of Sales": 1478
+                    },
+                    {
+                        "Product Bundle": "{1005105, 1005115}",
+                        "Num Of Sales": 1442
+                    },
+                    {
+                        "Product Bundle": "{1004249, 1005115}",
+                        "Num Of Sales": 1232
+                    },
+                    {
+                        "Product Bundle": "{1004833, 1004767}",
+                        "Num Of Sales": 1204
+                    },
+                    {
+                        "Product Bundle": "{1004856, 1004858}",
+                        "Num Of Sales": 1032
+                    },
+                    {
+                        "Product Bundle": "{1002544, 1002524}",
+                        "Num Of Sales": 822
+                    }
+                ],
+                "title": "Most Sold Product Bundles"
+            }
+        ]
+    }
+}
