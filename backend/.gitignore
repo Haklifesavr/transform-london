@@ -1,0 +1,17 @@
+venv 
+.idea
+.env
+service-account-key.json
+core/__pycache__/
+__pycache__/
+__pycache__
+/__pycache__/
+
+db.sqlite3
+.venv/
+.idea/
+
+/account/migrations/
+/api/migrations/
+._venv
+cloud_sql_proxy.exe

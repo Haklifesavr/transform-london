@@ -1,0 +1,29 @@
+repos:
+  - repo: https://github.com/asottile/reorder_python_imports
+    rev: v3.8.2
+    hooks:
+      - id: reorder-python-imports
+
+  - repo: https://github.com/psf/black
+    rev: 22.6.0
+    hooks:
+      - id: black
+        exclude: \.git|\.venv|venv|_build|build|dist
+        args:
+          [
+            "--line-length=88",
+            "--quiet",
+            '--exclude="/(\.git|\.venv|venv|_build|build|dist)/"',
+          ]
+
+  - repo: https://github.com/PyCQA/flake8
+    rev: 5.0.4
+    hooks:
+      - id: flake8
+        exclude: \.git|\.venv|venv|_build|build|dist
+        args:
+          [
+            "--max-line-length=88",
+            "--max-complexity=18",
+            "--exclude=.venv,venv,.env,.github",
+          ]
